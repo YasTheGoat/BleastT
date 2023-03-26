@@ -1,16 +1,13 @@
 ### Hi there 👋
 
-<!--
-**BleastT/BleastT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Im a solo developper from Canada. I learned by myself and Im pretty damn good with javascript, python and c++. <br>
+Im tryng to get better with React and Rust One day 😁😁. I love making 3rd party tools and extension. They're just great 😎😎.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- You might know me (I doubt it) from an extension I made for vscode -> [CPP_ extension](https://marketplace.visualstudio.com/items?itemName=bleastProgram.CPP-Compiler)
+    It was basically and extension to automatically run C/CPP projects. Im quite proud of all the features it offers.<br>
+    You can check it out if you want 😉😉
+    
+   
+  [Twitter account](https://twitter.com/bleastbt)
+  [Youtube Channel](https://www.youtube.com/@bleastbt)
+  [Patreon Page if you want to support me](https://www.patreon.com/BleastT62)
