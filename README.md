@@ -9,9 +9,6 @@ Im tryng to get better with React and React Native 😁😁. I love making 3rd p
 # Links
 <br>
 
-[Youtube Channel](https://www.youtube.com/@bleastbt) 
-<br>
-
 [Twitter account](https://twitter.com/bleastbt) 
 <br>
 
